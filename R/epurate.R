@@ -13,7 +13,7 @@ epurate <- function(toc = TRUE, code_folding = "hide", number_sections=TRUE) {
                                css= css,
                                toc= toc,
                                toc_float = TRUE,
-                               toc_depth = 2,
+                               toc_depth = toc_depth,
                                number_sections= number_sections,
                                df_print = "paged",
                                code_folding = code_folding,
