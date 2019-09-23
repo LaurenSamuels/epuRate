@@ -16,6 +16,12 @@ pre {
  }
 
 
+/* ---------- Will this work? ----------------- */
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
 
 
 
