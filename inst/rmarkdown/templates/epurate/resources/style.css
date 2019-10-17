@@ -11,12 +11,13 @@ h1.title {
 }
 
 pre {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     border: 0px solid #cccccc;
     border-radius: 0px;
  }
 
 
-code {
+code, code.r {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 1em;
 }
