@@ -14,8 +14,13 @@ pre {
     font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     border: 0px solid #cccccc;
     border-radius: 0px;
+    overflow-x: auto;
  }
 
+pre code {
+  word-wrap: normal;
+  white-space: pre;
+}
 
 code, code.r {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
